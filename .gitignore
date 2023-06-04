@@ -1,0 +1,7 @@
+# Project exclude paths
+/businesdomain/empleados/target/
+/businesdomain/examen/target/
+/businesdomain/orden/target/
+/businesdomain/ordenesdetalles/target/
+/businesdomain/resultado/target/
+/businesdomain/usuario/target/

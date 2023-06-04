@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="examen" />
+        <module name="empleados" />
+        <module name="usuario" />
+        <module name="ordenesdetalles" />
+        <module name="orden" />
+        <module name="resultado" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="empleado" target="17" />
+      <module name="ordendetalle" target="17" />
+      <module name="paciente" target="17" />
+      <module name="untitled" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="empleados" options="" />
+      <module name="examen" options="--add-modules java.base" />
+      <module name="orden" options="--add-modules java.base" />
+      <module name="ordendetalle" options="" />
+      <module name="ordenesdetalles" options="--add-modules java.base" />
+      <module name="paciente" options="" />
+      <module name="resultado" options="--add-modules java.base" />
+      <module name="usuario" options="" />
+    </option>
+  </component>
+</project>

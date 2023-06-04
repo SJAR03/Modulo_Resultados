@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="true" type="CompoundRunConfigurationType">
+    <toRun name="EmpleadosApplication" type="SpringBootApplicationConfigurationType" />
+    <toRun name="ExamenApplication" type="SpringBootApplicationConfigurationType" />
+    <toRun name="OrdenApplication" type="SpringBootApplicationConfigurationType" />
+    <toRun name="OrdenDetalleApplication" type="SpringBootApplicationConfigurationType" />
+    <toRun name="ResultadosApplication" type="SpringBootApplicationConfigurationType" />
+    <toRun name="UsuariosApplication" type="SpringBootApplicationConfigurationType" />
+    <method v="2" />
+  </configuration>
+</component>
