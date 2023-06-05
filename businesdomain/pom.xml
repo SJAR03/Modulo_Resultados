@@ -100,5 +100,6 @@
         <module>examen</module>
         <module>usuario</module>
         <module>ordenesdetalles</module>
+        <module>valoresnormales</module>
     </modules>
 </project>

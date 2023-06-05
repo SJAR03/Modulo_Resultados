@@ -6,12 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="valoresnormales" />
+        <module name="resultado" />
         <module name="examen" />
         <module name="empleados" />
         <module name="usuario" />
         <module name="ordenesdetalles" />
         <module name="orden" />
-        <module name="resultado" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -24,12 +25,12 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="empleados" options="" />
-      <module name="examen" options="--add-modules java.base" />
-      <module name="orden" options="--add-modules java.base" />
+      <module name="examen" options="" />
+      <module name="orden" options="" />
       <module name="ordendetalle" options="" />
-      <module name="ordenesdetalles" options="--add-modules java.base" />
+      <module name="ordenesdetalles" options="" />
       <module name="paciente" options="" />
-      <module name="resultado" options="--add-modules java.base" />
+      <module name="resultado" options="" />
       <module name="usuario" options="" />
     </option>
   </component>

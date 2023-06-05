@@ -5,83 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29524827-40e7-4b5e-999f-20629465c28f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/_template__of_CompoundRunConfigurationType.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/empleados/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/empleados/src/main/java/com/prolis/empleados/EmpleadosAplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/empleados/src/main/java/com/prolis/empleados/controller/EmpleadoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/empleados/src/main/java/com/prolis/empleados/entity/empleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/empleados/src/main/java/com/prolis/empleados/repository/EmpleadoRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/empleados/src/main/java/com/prolis/empleados/service/EmpleadoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/empleados/src/main/java/com/prolis/empleados/service/impl/EmpleadoServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/empleados/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/examen/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/examen/src/main/java/com/prolis/examen/controller/examenController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/examen/src/main/java/com/prolis/examen/entity/Examen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/examen/src/main/java/com/prolis/examen/repository/ExamenRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/examen/src/main/java/com/prolis/examen/service/ExamenService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/examen/src/main/java/com/prolis/examen/service/impl/ExamenServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/examen/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/orden/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/orden/src/main/java/com/prolis/orden/OrdenApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/orden/src/main/java/com/prolis/orden/controller/OrdenController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/orden/src/main/java/com/prolis/orden/entity/Orden.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/orden/src/main/java/com/prolis/orden/repository/OrdenRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/orden/src/main/java/com/prolis/orden/service/OrdenService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/orden/src/main/java/com/prolis/orden/service/impl/ordenServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/orden/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/ordenesdetalles/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/ordenesdetalles/src/main/java/com/prolis/ordenesdetalles/OrdenDetalleApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/ordenesdetalles/src/main/java/com/prolis/ordenesdetalles/controller/OrdenDetalleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/ordenesdetalles/src/main/java/com/prolis/ordenesdetalles/entity/OrdenDetalle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/ordenesdetalles/src/main/java/com/prolis/ordenesdetalles/repository/ordenDetalleRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/ordenesdetalles/src/main/java/com/prolis/ordenesdetalles/service/OrdenDetalleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/ordenesdetalles/src/main/java/com/prolis/ordenesdetalles/service/impl/OrdenDetalleServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/resultado/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/resultado/src/main/java/com/prolis/resultado/ResultadosApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/resultado/src/main/java/com/prolis/resultado/controller/ResultadosController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/resultado/src/main/java/com/prolis/resultado/entity/Resultados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/resultado/src/main/java/com/prolis/resultado/repository/ResultadosRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/resultado/src/main/java/com/prolis/resultado/service/ResultadosService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/resultado/src/main/java/com/prolis/resultado/service/impl/ResultadosServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/resultado/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/usuario/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/usuario/src/main/java/com/prolis/usuario/controller/UsuarioController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/usuario/src/main/java/com/prolis/usuario/entity/usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/usuario/src/main/java/com/prolis/usuario/repository/UsuarioRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/usuario/src/main/java/com/prolis/usuario/service/impl/UsuarioService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/usuario/src/main/java/com/prolis/usuario/service/impl/impl/UsuarioServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/usuario/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/businesdomain/paciente/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/businesdomain/paciente/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/businesdomain/paciente/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/businesdomain/paciente/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/businesdomain/paciente/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/businesdomain/paciente/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/businesdomain/paciente/src/main/java/com/prolis/usuario/PacienteApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/businesdomain/usuario/src/main/java/com/prolis/usuario/UsuariosAplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/businesdomain/paciente/src/main/java/com/prolis/usuario/controller/PacienteController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/businesdomain/paciente/src/main/java/com/prolis/usuario/entity/Paciente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/businesdomain/paciente/src/main/java/com/prolis/usuario/repository/PacienteRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/businesdomain/paciente/src/main/java/com/prolis/usuario/service/PacienteService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/businesdomain/paciente/src/main/java/com/prolis/usuario/service/impl/PacienteServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/businesdomain/paciente/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/businesdomain/paciente/src/test/java/com/prolis/usuario/UsuarioApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/businesdomain/pais/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/businesdomain/pais/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/businesdomain/pais/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/businesdomain/pais/src/main/java/org/prolis/pais/PaisApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/businesdomain/examen/src/main/java/com/prolis/examen/examenAplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/businesdomain/pais/src/main/java/org/prolis/pais/controller/PaisController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/businesdomain/pais/src/main/java/org/prolis/pais/entity/Pais.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/businesdomain/pais/src/main/java/org/prolis/pais/repository/PaisRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/businesdomain/pais/src/main/java/org/prolis/pais/service/Impl/PaisServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/businesdomain/pais/src/main/java/org/prolis/pais/service/PaisService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/businesdomain/pais/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/businesdomain/ordenesdetalles/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/businesdomain/pais/src/test/java/org/prolis/pais/PaisApplicationTests.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/businesdomain/valoresnormales/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/businesdomain/valoresnormales/src/main/java/com/prolis/valoresnormales/ValoresNormalesApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/businesdomain/valoresnormales/src/main/java/com/prolis/valoresnormales/controller/ValoresnormalesController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/businesdomain/valoresnormales/src/main/java/com/prolis/valoresnormales/entity/Valoresnormales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/businesdomain/valoresnormales/src/main/java/com/prolis/valoresnormales/repository/ValoresnormalesRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/businesdomain/valoresnormales/src/main/java/com/prolis/valoresnormales/service/ValoresnormalesService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/businesdomain/valoresnormales/src/main/java/com/prolis/valoresnormales/service/impl/ValoresnormalesServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/businesdomain/valoresnormales/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/_template__of_CompoundRunConfigurationType.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/_template__of_CompoundRunConfigurationType.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/businesdomain/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/businesdomain/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,8 +27,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Swagger" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -124,41 +59,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;temurin-17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Modulo_Resultados&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.48735633&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;97e07b13252ca106a8054351de6b3ac1&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "temurin-17",
+    "last_opened_file_path": "C:/Users/eduardo gomez/Documents/modulo_resultados/businesdomain/valoresnormales/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.48735633",
+    "spring.configuration.checksum": "97e07b13252ca106a8054351de6b3ac1",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\eduardo gomez\Documents\modulo_resultados\businesdomain\valoresnormales\src\main\resources" />
       <recent name="C:\Users\eduardo gomez\Downloads\Modulo_Resultados\businesdomain\ordenesdetalles\src\main\resources" />
       <recent name="C:\Users\eduardo gomez\Downloads\Modulo_Resultados\businesdomain\ordenesdetalles\src\main\java\com\prolis\ordenesdetalles" />
       <recent name="C:\Users\eduardo gomez\Downloads\Modulo_Resultados\businesdomain\orden_detalle\src\main\resources" />
       <recent name="C:\Users\eduardo gomez\Downloads\Proyecto-Prolis\businesdomain\usuario\src\main\java\com\prolis\usuario" />
-      <recent name="C:\Users\eduardo gomez\Downloads\Proyecto-Prolis\businesdomain\resultado\src\main\java\com\prolis\resultado" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.prolis.orden.Cors" />
@@ -171,7 +106,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ResultadosApplication">
+  <component name="RunManager" selected="Spring Boot.ValoresNormales">
     <configuration name="EmpleadosApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
       <option name="ACTIVE_PROFILES" />
       <module name="empleados" />
@@ -223,6 +158,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ValoresNormales" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="valoresnormales" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.prolis.valoresnormales.ValoresNormalesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <option name="ACTIVE_PROFILES" />
       <option name="SPRING_BOOT_MAIN_CLASS" />
@@ -253,6 +196,7 @@
       <item itemvalue="Spring Boot.UsuariosApplication" />
       <item itemvalue="Spring Boot.OrdenApplication" />
       <item itemvalue="Spring Boot.ResultadosApplication" />
+      <item itemvalue="Spring Boot.ValoresNormales" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -289,6 +233,7 @@
       <workItem from="1685777613283" duration="2586000" />
       <workItem from="1685781739201" duration="5002000" />
       <workItem from="1685840525394" duration="3793000" />
+      <workItem from="1685964319264" duration="947000" />
     </task>
     <servers />
   </component>
