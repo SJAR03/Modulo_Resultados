@@ -5,10 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29524827-40e7-4b5e-999f-20629465c28f" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/businesdomain/usuario/src/main/java/com/prolis/usuario/UsuariosAplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/businesdomain/usuario/src/main/java/com/prolis/usuario/UsuariosAplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/businesdomain/usuario/src/main/java/com/prolis/usuario/controller/UsuarioController.java" beforeDir="false" afterPath="$PROJECT_DIR$/businesdomain/usuario/src/main/java/com/prolis/usuario/controller/UsuarioController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/businesdomain/usuario/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/businesdomain/usuario/src/main/resources/application.properties" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/_template__of_CompoundRunConfigurationType.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/_template__of_CompoundRunConfigurationType.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/businesdomain/empleados/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/businesdomain/empleados/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/businesdomain/examen/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/businesdomain/examen/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/businesdomain/orden/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/businesdomain/orden/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/businesdomain/ordenesdetalles/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/businesdomain/ordenesdetalles/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/businesdomain/resultado/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/businesdomain/resultado/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/businesdomain/usuario/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/businesdomain/usuario/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/businesdomain/valoresnormales/src/main/java/com/prolis/valoresnormales/controller/ValoresnormalesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/businesdomain/valoresnormales/src/main/java/com/prolis/valoresnormales/controller/ValoresnormalesController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/businesdomain/valoresnormales/src/main/java/com/prolis/valoresnormales/repository/ValoresnormalesRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/businesdomain/valoresnormales/src/main/java/com/prolis/valoresnormales/repository/ValoresnormalesRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/businesdomain/valoresnormales/src/main/java/com/prolis/valoresnormales/service/ValoresnormalesService.java" beforeDir="false" afterPath="$PROJECT_DIR$/businesdomain/valoresnormales/src/main/java/com/prolis/valoresnormales/service/ValoresnormalesService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/businesdomain/valoresnormales/src/main/java/com/prolis/valoresnormales/service/impl/ValoresnormalesServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/businesdomain/valoresnormales/src/main/java/com/prolis/valoresnormales/service/impl/ValoresnormalesServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/businesdomain/valoresnormales/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/businesdomain/valoresnormales/src/main/resources/application.properties" afterDir="false" />
+>>>>>>> 48244ea34b05921f1bdfdd7b6f10f87c5cbe0a83
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +87,11 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.48735633",
+<<<<<<< HEAD
     "spring.configuration.checksum": "9d4fdba2229c260ee7ebc85a46db6cea",
+=======
+    "spring.configuration.checksum": "6ea817a1e7280b53df4e515b1bba0cb5",
+>>>>>>> 48244ea34b05921f1bdfdd7b6f10f87c5cbe0a83
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -97,7 +117,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ValoresNormales">
+  <component name="RunManager" selected="Spring Boot.ValoresNormalesApplication">
     <configuration name="EmpleadosApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
       <option name="ACTIVE_PROFILES" />
       <module name="empleados" />
@@ -149,8 +169,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValoresNormales" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <option name="ACTIVE_PROFILES" />
+    <configuration name="ValoresNormalesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
       <module name="valoresnormales" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.prolis.valoresnormales.ValoresNormalesApplication" />
       <method v="2">
@@ -181,13 +200,13 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Spring Boot.ValoresNormalesApplication" />
       <item itemvalue="Spring Boot.OrdenDetalleApplication" />
       <item itemvalue="Spring Boot.EmpleadosApplication" />
       <item itemvalue="Spring Boot.ExamenApplication" />
       <item itemvalue="Spring Boot.UsuariosApplication" />
       <item itemvalue="Spring Boot.OrdenApplication" />
       <item itemvalue="Spring Boot.ResultadosApplication" />
-      <item itemvalue="Spring Boot.ValoresNormales" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -224,8 +243,13 @@
       <workItem from="1685777613283" duration="2586000" />
       <workItem from="1685781739201" duration="5002000" />
       <workItem from="1685840525394" duration="3793000" />
+<<<<<<< HEAD
       <workItem from="1685964319264" duration="1651000" />
       <workItem from="1686025803386" duration="142000" />
+=======
+      <workItem from="1685964319264" duration="947000" />
+      <workItem from="1686023978923" duration="1453000" />
+>>>>>>> 48244ea34b05921f1bdfdd7b6f10f87c5cbe0a83
     </task>
     <servers />
   </component>
