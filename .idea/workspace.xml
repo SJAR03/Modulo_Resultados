@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29524827-40e7-4b5e-999f-20629465c28f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/businesdomain/valoresnormales/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/valoresnormales/src/main/java/com/prolis/valoresnormales/ValoresNormalesApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/valoresnormales/src/main/java/com/prolis/valoresnormales/controller/ValoresnormalesController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/valoresnormales/src/main/java/com/prolis/valoresnormales/entity/Valoresnormales.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/valoresnormales/src/main/java/com/prolis/valoresnormales/repository/ValoresnormalesRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/valoresnormales/src/main/java/com/prolis/valoresnormales/service/ValoresnormalesService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/valoresnormales/src/main/java/com/prolis/valoresnormales/service/impl/ValoresnormalesServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesdomain/valoresnormales/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/_template__of_CompoundRunConfigurationType.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/_template__of_CompoundRunConfigurationType.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/businesdomain/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/businesdomain/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/businesdomain/usuario/src/main/java/com/prolis/usuario/UsuariosAplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/businesdomain/usuario/src/main/java/com/prolis/usuario/UsuariosAplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/businesdomain/usuario/src/main/java/com/prolis/usuario/controller/UsuarioController.java" beforeDir="false" afterPath="$PROJECT_DIR$/businesdomain/usuario/src/main/java/com/prolis/usuario/controller/UsuarioController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/businesdomain/usuario/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/businesdomain/usuario/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +71,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.48735633",
-    "spring.configuration.checksum": "97e07b13252ca106a8054351de6b3ac1",
+    "spring.configuration.checksum": "9d4fdba2229c260ee7ebc85a46db6cea",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -233,7 +224,8 @@
       <workItem from="1685777613283" duration="2586000" />
       <workItem from="1685781739201" duration="5002000" />
       <workItem from="1685840525394" duration="3793000" />
-      <workItem from="1685964319264" duration="947000" />
+      <workItem from="1685964319264" duration="1651000" />
+      <workItem from="1686025803386" duration="142000" />
     </task>
     <servers />
   </component>
