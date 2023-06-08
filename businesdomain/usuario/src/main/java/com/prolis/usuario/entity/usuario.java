@@ -16,5 +16,7 @@ public class usuario {
     private Long IdUsuario;
     @Column(name = "IdEmpleado")
     private int IdEmpleado;
+    @Column(name = "Login")
+    private String Login;
 
 }

@@ -17,13 +17,13 @@ import java.util.List;
 public class UsuarioController {
     private UsuarioService px_service;
 
-    // http://localhost:8082/api/usuario
+    // http://localhost:8087/api/usuario
     @GetMapping
     public ResponseEntity<List<usuario>> listarUsuarios(){
         List<usuario> pxs = px_service.obtenerUsuarios();
         return new ResponseEntity<>(pxs, HttpStatus.OK);
     }
-    //localhost:8082/api/usuario/usuarioById/{id}
+    //localhost:8087/api/usuario/usuarioById/{id}
     @GetMapping(path="/usuarioById/{id}")
     public ResponseEntity<usuario> obtenerPxPorId(@PathVariable("id") Long id)
     {
